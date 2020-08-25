@@ -1,1 +1,2 @@
-#Chat-server-with-python 
+#Chat-server
+#made with python socket
